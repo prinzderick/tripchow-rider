@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+  <key>CFBundleDisplayName</key><string>TripChow Rider</string>
+  <key>CFBundleName</key><string>tripchowrider</string>
+  <key>NSLocationWhenInUseUsageDescription</key><string>TripChow Rider needs your location to send it to customers and accept nearby jobs.</string>
+  <key>NSLocationAlwaysAndWhenInUseUsageDescription</key><string>TripChow Rider uses your location in background for live delivery tracking.</string>
+</dict></plist>
